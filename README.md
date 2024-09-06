@@ -1,16 +1,6 @@
 # Rock vs Mine Prediction Model
 This repository contains a logistic regression model to predict whether sonar returns are from rocks or mines. The model is trained on a dataset that includes sonar frequency returns, which is useful in distinguishing between different types of objects underwater.
 
-## Table of Contents
-Installation
-<<<<<<< HEAD
-Dataset
-Model
-Usage
-Evaluation
-Contributing
-License
-
 ## Installation
 
 1. **Clone the repository**:
@@ -56,21 +46,5 @@ The model's performance is evaluated using the accuracy score, indicating how we
 - 
 ## License
 This project is licensed under the MIT License.
-
-=======
-
-Dataset
-
-Model
-
-Usage
-
-Evaluation
-
-Contributing
-
-License
-
->>>>>>> e54b2c2e02f7ebf17b793c92687ebf1bc85911a0
 
 
